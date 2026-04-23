@@ -1,5 +1,9 @@
-# Flange
-inner_flange_side = 1
-outer_flange_side = 0
+import math
 
-print("Inner Octagon side ", inner_flange_side)
+from module.octagon import *
+
+print(math.pi)
+
+print(half_angle)
+
+inner_right_triangle = 1 #math.tan(
