@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 from module.trig import *
 #from module.math import *
+from module.Template import *
 
 #print("Radius: ", radius, "1/8 Angle: ", angle, "8* angle:", angle*8)
 
