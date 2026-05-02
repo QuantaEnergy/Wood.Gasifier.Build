@@ -1,9 +1,4 @@
 #!/usr/bin/python3
-from module.trig import *
-#from module.math import *
-from module.Template import *
-
-#print("Radius: ", radius, "1/8 Angle: ", angle, "8* angle:", angle*8)
-
-#print("Right Triangle: ", right_triangle)
+#from module.Template import *
+from module.trapezoid import *
 

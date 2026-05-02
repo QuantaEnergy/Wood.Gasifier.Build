@@ -1,3 +1,4 @@
+# Make a Template for a triangle at the vertex of Octagon. Has 22.5° angle. 1/2 of the Octagon's corner.
 import math
 from module.octagon import *
 
